@@ -1,1 +1,1 @@
-# Desafio_t-cnico_1
+# Para executar o arquivo em outra máquina, você precisará ter o Node.js instalado na máquina de destino. Além disso, é necessário copiar todos os arquivos do projeto para a máquina de destino. Em seguida, abra um terminal ou prompt de comando na pasta do projeto e execute o comando `node nome_do_arquivo.js`, onde `nome_do_arquivo.js` é o nome do arquivo JavaScript que contém o código do projeto. Para testar, basta modificar o arquivo original adicionando console.log(somatorio(x));, onde x é o número que queira testar. 
